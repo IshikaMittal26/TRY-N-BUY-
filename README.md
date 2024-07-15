@@ -1,4 +1,4 @@
-# TRY-N-BUY-
+# TRY-N-BUY
 PROBLEM STATEMENT
 1. Trend-Centric Recommendations: Employ AI-driven recommendation systems that analyze current
 fashion trends, customer preferences, and purchase history to deliver tailored product suggestions,
