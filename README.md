@@ -10,6 +10,6 @@ users to keep visiting the app on a
 habitual basis
 
 SOLUTION                                                                                                                                                                        
-How it helps to solve the problem
+How it helps to solve the problem : 
 The AI-driven 3D Fashion Mannequin enables customers to input their body measurements and height to generate a virtual model that closely mirrors their body type. This feature allows users to virtually try on various products available on the app, providing a more accurate representation of how the items will fit and appear. Customers can create different looks with the available products and purchase them accordingly. By utilizing previous purchase history and viewing patterns, the system delivers personalized recommendations, enhancing customer satisfaction, engagement, and conversion rates!
 
