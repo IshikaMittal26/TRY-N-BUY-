@@ -1,0 +1,13 @@
+Flask
+Flask_SQLAlchemy
+Flask_Bcrypt
+Flask_Marshmallow
+Flask_CORS
+PyJWT
+torch==2.0.1
+torchvision==0.2.1
+tensorboardX
+pillow
+numpy
+opencv-contrib-python
+
